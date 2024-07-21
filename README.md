@@ -1,0 +1,6 @@
+- **👋 Hi, I’m Rakhi Kumari Yadav**
+- 👀 I’m currently interested on **Data Analytics, Python & SQL**
+- 🌱 I’m currently learning **Data visualization using Power BI**
+- 💬 Ask me about **Python,SQL,Statistics,Power BI and Data Analytics**
+- 📫 How to reach me https://www.linkedin.com/in/rakhi-kumari-yadav-6552901b6/
+- ⚡ Fun fact **I am an Inquisitive Person**
